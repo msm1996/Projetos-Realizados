@@ -13,6 +13,7 @@ O objetivo do site é servir como portfólio visual, reunindo os links dos meus 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br>
 <h2>📸 Imagem do projeto:</h2>
-<img src = "https://github.com/msm1996/Projetos-Realizados/blob/main/Captura%20de%20tela%202025-07-20%20225827.png?raw=true">
+  
+<img src = "https://github.com/msm1996/Projetos-Realizados/blob/main/Captura%20de%20tela%202025-10-28%20124713.png?raw=true" />
 
 <a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
