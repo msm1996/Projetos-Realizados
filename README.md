@@ -1,6 +1,7 @@
 <h1>💻 Projetos Realizados</h1>
 
 <h2>Este site foi desenvolvido para apresentar de forma organizada os projetos que venho construindo durante meus estudos em desenvolvimento front-end.
+  
 O objetivo é funcionar como um portfólio visual, reunindo links e informações dos projetos desenvolvidos ao longo da minha jornada na programação.</h2>
 
 <br>
